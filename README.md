@@ -1,7 +1,8 @@
 # Payday2 Striped Lootbag V2  Development Version!
 Striped Lootbag V2 is a texture Mod for Payday 2 to change the look of the Lootbags.
 <p align="center">
-  <img src="http://abload.de/img/gen_pku_lootbag_df.te82s0z.jpg" width="350"/>
+  <img src="http://abload.de/img/20160906195232_1w7s58.jpg" width="420"/>
+  <img src="http://abload.de/img/gen_pku_lootbag_df.te82s0z.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 
