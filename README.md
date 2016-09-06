@@ -11,6 +11,7 @@ http://lastbullet.net/mydownloads.php?action=view_down&did=15905
 # Installation
 Unzip files
 Copy the folder "Striped Lootbag V2" to: Steam\steamapps\common\PAYDAY2\assets\mod_overrides
+
 Just ignore the other files you have in the .zip folder!
 
 #Bugs and suggestions for improvement
