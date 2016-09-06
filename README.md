@@ -26,7 +26,7 @@ Feel free to send me you ideas or advices for changes. You also can send me requ
 I will tell you if it´s possible and will implement it as soon as possible.
 If you find any bugs or have any problems feel free to contact me. 
 
-You can post it on issues tab or contact me on Steam: http://steamcommunity.com/id/the_real_brathoernchen
+__You can post it on issues tab or contact me on Steam: http://steamcommunity.com/id/the_real_brathoernchen__
 
 __License:__
 --
